@@ -1,0 +1,1201 @@
+route_id,zone,distance_km,traffic_level
+RTE00001,East,9.28,High
+RTE00002,North,2.02,Medium
+RTE00003,north,13.17,High
+RTE00004,Suburbs,19.55,Low
+RTE00005,South,4.02,Low
+RTE00006,South,13.47,Medium
+RTE00007,central,14.89,Low
+RTE00008,Nrth,9.69,Low
+RTE00009,SOUTH,15.66,Medium
+RTE00010,Nrth,9.51,Medium
+RTE00011,AIRPORT,11.5,Very High
+RTE00012,AIRPORT,0.96,Low
+RTE00013,central,15.46,Medium
+RTE00014,East,14.82,Very High
+RTE00015,Sth,1.61,Low
+RTE00016,Sth,8.61,Medium
+RTE00017,Central,21.56,Low
+RTE00018,north,9.72,Very High
+RTE00019,East,11.44,High
+RTE00020,SOUTH,20.09,Low
+RTE00021,East,16.01,Low
+RTE00022,Nrth,13.14,Low
+RTE00023,Suburbs,17.71,Low
+RTE00024,Central,19.12,Medium
+RTE00025,Sth,10.49,High
+RTE00026,East Zone,10.87,Low
+RTE00027,central,8.98,Medium
+RTE00028,East,21.29,High
+RTE00029,SOUTH,15.58,Very High
+RTE00030,AIRPORT,2.56,Very High
+RTE00031,Downtown,19.09,Very High
+RTE00032,South,10.99,Very High
+RTE00033,Downtown,2.26,Very High
+RTE00034,East,12.45,High
+RTE00035,AIRPORT,9.64,Low
+RTE00036,West,19.41,Very High
+RTE00037,suburbs,5.12,Low
+RTE00038,South,18.32,Low
+RTE00039,SOUTH,12.62,Low
+RTE00040,Airport,1.96,Low
+RTE00041,West,21.4,Low
+RTE00042,North,11.67,High
+RTE00043,Central,6.97,Low
+RTE00044,North,10.75,High
+RTE00045,Airport,18.99,High
+RTE00046,Down Town,7.26,Low
+RTE00047,west,4.88,High
+RTE00048,Nrth,3.54,Very High
+RTE00049,Nrth,7.11,Very High
+RTE00050,north,17.34,Very High
+RTE00051,Airport,10.8,Low
+RTE00052,west,5.62,Very High
+RTE00053,Central,4.32,Medium
+RTE00054,north,7.85,Medium
+RTE00055,West,20.73,Medium
+RTE00056,North,8.07,Very High
+RTE00057,East Zone,21.75,High
+RTE00058,AIRPORT,11.09,Medium
+RTE00059,north,4.6,High
+RTE00060,Nrth,19.69,High
+RTE00061,East,10.56,Low
+RTE00062,north,15.85,Medium
+RTE00063,East,21.65,Low
+RTE00064,Down Town,1.86,Low
+RTE00065,suburbs,2.85,Low
+RTE00066,Nrth,16.07,Very High
+RTE00067,west,6.77,Low
+RTE00068,South,4.71,High
+RTE00069,Down Town,1.63,Medium
+RTE00070,Airport,1.26,High
+RTE00071,west,17.22,Medium
+RTE00072,Airport,3.65,Very High
+RTE00073,north,10.72,Medium
+RTE00074,West,13.65,Medium
+RTE00075,West,9.88,Medium
+RTE00076,Downtown,1.37,Medium
+RTE00077,Nrth,17.41,High
+RTE00078,North,1.02,Medium
+RTE00079,South,16.95,Low
+RTE00080,North,19.74,Medium
+RTE00081,Downtown,9.98,Low
+RTE00082,South,12.15,Very High
+RTE00083,Down Town,10.91,Low
+RTE00084,west,9.05,High
+RTE00085,central,19.61,Low
+RTE00086,Central,19.75,High
+RTE00087,Airport,7.92,Low
+RTE00088,South,13.84,Medium
+RTE00089,Sth,20.45,Very High
+RTE00090,AIRPORT,21.2,High
+RTE00091,Downtown,11.59,High
+RTE00092,East Zone,10.4,Medium
+RTE00093,Downtown,6.71,Medium
+RTE00094,AIRPORT,21.13,Low
+RTE00095,East Zone,3.83,High
+RTE00096,north,13.09,Low
+RTE00097,East,6.79,Medium
+RTE00098,west,6.71,High
+RTE00099,West,9.39,Very High
+RTE00100,Nrth,21.97,Very High
+RTE00101,South,1.97,High
+RTE00102,Airport,13.07,High
+RTE00103,Downtown,2.55,Medium
+RTE00104,Nrth,4.08,High
+RTE00105,South,10.12,High
+RTE00106,central,11.62,Very High
+RTE00107,East,6.29,Medium
+RTE00108,suburbs,,Low
+RTE00109,SOUTH,2.64,High
+RTE00110,SOUTH,7.23,Medium
+RTE00111,East Zone,21.29,Medium
+RTE00112,East,20.83,Very High
+RTE00113,Sth,7.9,High
+RTE00114,suburbs,12.9,High
+RTE00115,North,20.08,Medium
+RTE00116,west,0.93,High
+RTE00117,Suburbs,17.99,Very High
+RTE00118,SOUTH,20.91,Very High
+RTE00119,SOUTH,2.74,Very High
+RTE00120,Downtown,4.22,High
+RTE00121,suburbs,21.17,High
+RTE00122,west,12.2,Very High
+RTE00123,Down Town,1.1,Low
+RTE00124,Suburbs,6.26,Medium
+RTE00125,Sth,10.34,Low
+RTE00126,Downtown,15.49,High
+RTE00127,Central,16.34,Medium
+RTE00128,North,21.9,Medium
+RTE00129,AIRPORT,,High
+RTE00130,North,12.21,Low
+RTE00131,Downtown,12.11,Low
+RTE00132,Sth,9.4,Low
+RTE00133,west,4.39,Low
+RTE00134,North,21.52,Very High
+RTE00135,East Zone,18.89,Medium
+RTE00136,North,11.36,Low
+RTE00137,central,13.59,High
+RTE00138,SOUTH,5.62,Very High
+RTE00139,West,12.33,Medium
+RTE00140,Suburbs,15.53,High
+RTE00141,Nrth,11.72,Very High
+RTE00142,Downtown,21.79,Medium
+RTE00143,AIRPORT,13.76,High
+RTE00144,Down Town,8.66,Medium
+RTE00145,South,17.17,Very High
+RTE00146,Central,4.41,Low
+RTE00147,north,8.95,Very High
+RTE00148,East,8.16,High
+RTE00149,South,9.95,Low
+RTE00150,Downtown,17.37,Medium
+RTE00151,Nrth,11.06,Medium
+RTE00152,AIRPORT,17.63,Medium
+RTE00153,west,13.02,Very High
+RTE00154,suburbs,8.05,Medium
+RTE00155,East,17.97,Medium
+RTE00156,West,5.85,Medium
+RTE00157,Nrth,5.56,Very High
+RTE00158,Central,11.5,High
+RTE00159,central,6.33,Low
+RTE00160,East,0.99,Medium
+RTE00161,South,14.54,Very High
+RTE00162,AIRPORT,11.64,Medium
+RTE00163,Central,10.24,Low
+RTE00164,Downtown,21.3,High
+RTE00165,SOUTH,12.91,High
+RTE00166,north,19.1,Medium
+RTE00167,East Zone,3.76,Low
+RTE00168,central,12.87,Medium
+RTE00169,East Zone,19.2,High
+RTE00170,East Zone,13.16,Very High
+RTE00171,suburbs,16.02,Very High
+RTE00172,north,8.69,Very High
+RTE00173,Downtown,2.76,Low
+RTE00174,East,10.51,Low
+RTE00175,Suburbs,9.16,High
+RTE00176,Central,19.18,Low
+RTE00177,West,5.97,High
+RTE00178,Central,21.29,High
+RTE00179,West,21.11,Medium
+RTE00180,Airport,6.05,Very High
+RTE00181,suburbs,8.18,Very High
+RTE00182,suburbs,19.79,High
+RTE00183,East Zone,21.29,Low
+RTE00184,AIRPORT,10.2,High
+RTE00185,West,,Very High
+RTE00186,Sth,11.95,Medium
+RTE00187,west,15.38,Very High
+RTE00188,Suburbs,6.6,High
+RTE00189,suburbs,16.41,High
+RTE00190,SOUTH,1.9,Very High
+RTE00191,suburbs,1.85,Very High
+RTE00192,north,8.99,Low
+RTE00193,West,8.29,Medium
+RTE00194,East,7.49,Very High
+RTE00195,Airport,11.21,Medium
+RTE00196,SOUTH,7.6,Medium
+RTE00197,South,4.88,Low
+RTE00198,Suburbs,7.36,High
+RTE00199,East Zone,21.47,Medium
+RTE00200,Central,9.52,Medium
+RTE00201,East,10.23,Medium
+RTE00202,Downtown,13.02,Medium
+RTE00203,west,21.65,High
+RTE00204,central,5.92,Low
+RTE00205,Nrth,15.24,Medium
+RTE00206,South,15.98,Very High
+RTE00207,SOUTH,13.68,High
+RTE00208,north,2.68,Low
+RTE00209,Airport,15.15,Very High
+RTE00210,North,2.16,Very High
+RTE00211,central,13.44,Very High
+RTE00212,suburbs,16.48,Medium
+RTE00213,Sth,5.27,Medium
+RTE00214,Sth,18.64,Very High
+RTE00215,Downtown,1.44,Low
+RTE00216,West,18.69,Medium
+RTE00217,suburbs,10.56,Low
+RTE00218,West,5.41,Medium
+RTE00219,Central,3.64,Medium
+RTE00220,West,21.01,Medium
+RTE00221,North,2.34,Low
+RTE00222,South,5.02,Medium
+RTE00223,Downtown,8.17,Low
+RTE00224,Central,13.95,Medium
+RTE00225,Suburbs,12.35,High
+RTE00226,central,3.46,Medium
+RTE00227,west,6.94,Very High
+RTE00228,East,5.86,Low
+RTE00229,north,5.33,High
+RTE00230,East,9.52,Low
+RTE00231,North,15.73,Medium
+RTE00232,East,5.41,Very High
+RTE00233,Suburbs,8.57,Very High
+RTE00234,suburbs,9.09,Very High
+RTE00235,Central,21.5,Medium
+RTE00236,East,21.04,Medium
+RTE00237,East Zone,17.76,Very High
+RTE00238,West,5.92,Medium
+RTE00239,South,2.24,Medium
+RTE00240,suburbs,7.52,High
+RTE00241,South,6.46,Medium
+RTE00242,Airport,11.53,High
+RTE00243,AIRPORT,17.29,Very High
+RTE00244,central,19.0,Low
+RTE00245,Down Town,18.71,Medium
+RTE00246,North,8.43,Very High
+RTE00247,central,15.37,Very High
+RTE00248,AIRPORT,7.43,Medium
+RTE00249,Airport,2.09,Low
+RTE00250,west,15.67,Low
+RTE00251,Suburbs,1.01,Medium
+RTE00252,Airport,9.47,Very High
+RTE00253,north,7.78,Medium
+RTE00254,north,15.5,Low
+RTE00255,suburbs,17.04,Medium
+RTE00256,Central,7.25,Very High
+RTE00257,South,18.01,Low
+RTE00258,Downtown,7.03,Low
+RTE00259,SOUTH,10.26,Low
+RTE00260,Down Town,16.21,Very High
+RTE00261,AIRPORT,15.49,Medium
+RTE00262,Sth,21.73,Low
+RTE00263,Down Town,5.57,Very High
+RTE00264,South,14.84,Very High
+RTE00265,East,13.73,High
+RTE00266,north,20.2,Low
+RTE00267,central,4.11,Very High
+RTE00268,Central,16.74,Medium
+RTE00269,AIRPORT,12.85,Very High
+RTE00270,Suburbs,6.62,Very High
+RTE00271,Nrth,10.86,High
+RTE00272,Downtown,7.88,Low
+RTE00273,Sth,13.08,Very High
+RTE00274,North,19.65,Medium
+RTE00275,central,12.87,High
+RTE00276,west,14.19,Very High
+RTE00277,Down Town,11.8,Medium
+RTE00278,Sth,1.88,Low
+RTE00279,Down Town,5.74,High
+RTE00280,west,11.23,Very High
+RTE00281,Nrth,7.38,High
+RTE00282,East Zone,,Medium
+RTE00283,central,11.49,Low
+RTE00284,north,7.64,Low
+RTE00285,Airport,6.27,Low
+RTE00286,North,10.64,Low
+RTE00287,East Zone,3.63,Very High
+RTE00288,Downtown,20.47,Medium
+RTE00289,North,19.2,High
+RTE00290,north,15.8,Very High
+RTE00291,South,3.05,High
+RTE00292,Down Town,17.25,Low
+RTE00293,Nrth,17.93,Medium
+RTE00294,west,17.08,Very High
+RTE00295,Downtown,3.22,High
+RTE00296,Airport,14.45,High
+RTE00297,West,18.49,Very High
+RTE00298,Downtown,13.04,High
+RTE00299,Downtown,14.5,High
+RTE00300,north,10.52,Very High
+RTE00301,Sth,12.01,Medium
+RTE00302,South,1.53,Very High
+RTE00303,Downtown,14.35,Very High
+RTE00304,central,,Medium
+RTE00305,west,10.02,High
+RTE00306,Airport,7.0,Very High
+RTE00307,Airport,12.36,High
+RTE00308,Downtown,3.63,High
+RTE00309,East Zone,15.46,High
+RTE00310,west,17.65,Very High
+RTE00311,North,4.26,Medium
+RTE00312,west,3.01,Low
+RTE00313,Central,3.88,Medium
+RTE00314,Suburbs,19.4,Very High
+RTE00315,Down Town,12.0,Medium
+RTE00316,Sth,10.71,Low
+RTE00317,SOUTH,3.06,Medium
+RTE00318,Airport,14.57,Very High
+RTE00319,Down Town,19.2,High
+RTE00320,South,18.36,Low
+RTE00321,East,14.07,Medium
+RTE00322,South,2.4,Very High
+RTE00323,Downtown,3.18,Low
+RTE00324,Downtown,1.85,Low
+RTE00325,North,6.26,Medium
+RTE00326,Nrth,3.68,Very High
+RTE00327,Down Town,6.31,Very High
+RTE00328,North,8.96,Low
+RTE00329,East Zone,20.79,Low
+RTE00330,Suburbs,13.74,High
+RTE00331,Central,18.5,Medium
+RTE00332,East Zone,15.86,High
+RTE00333,Airport,3.19,Low
+RTE00334,East Zone,16.4,Low
+RTE00335,South,6.63,Very High
+RTE00336,North,14.35,Very High
+RTE00337,Central,8.03,High
+RTE00338,Central,21.95,Low
+RTE00339,West,6.39,Medium
+RTE00340,Nrth,6.72,Very High
+RTE00341,west,20.53,Very High
+RTE00342,East,1.32,Low
+RTE00343,west,15.57,Medium
+RTE00344,central,16.18,High
+RTE00345,West,18.53,Medium
+RTE00346,East Zone,21.46,Low
+RTE00347,SOUTH,21.48,Medium
+RTE00348,East Zone,,Medium
+RTE00349,Central,18.22,Low
+RTE00350,Airport,14.5,High
+RTE00351,AIRPORT,14.52,Medium
+RTE00352,Down Town,3.52,Low
+RTE00353,East Zone,14.58,Medium
+RTE00354,Airport,21.63,Low
+RTE00355,Sth,20.13,High
+RTE00356,west,10.11,Very High
+RTE00357,Downtown,1.65,High
+RTE00358,Airport,8.48,Very High
+RTE00359,central,18.32,Very High
+RTE00360,SOUTH,15.67,Medium
+RTE00361,SOUTH,10.54,Low
+RTE00362,Central,1.97,Low
+RTE00363,Airport,9.85,Low
+RTE00364,North,10.74,High
+RTE00365,central,20.49,High
+RTE00366,South,14.39,High
+RTE00367,Airport,7.41,High
+RTE00368,East Zone,11.94,Medium
+RTE00369,Downtown,2.2,Medium
+RTE00370,West,21.42,Very High
+RTE00371,Down Town,8.43,Very High
+RTE00372,Central,10.93,Low
+RTE00373,East Zone,8.33,High
+RTE00374,East,15.27,Medium
+RTE00375,Downtown,14.84,Very High
+RTE00376,west,15.96,Low
+RTE00377,East Zone,6.48,Low
+RTE00378,Airport,7.49,High
+RTE00379,East,3.46,High
+RTE00380,East Zone,14.7,Low
+RTE00381,suburbs,1.64,High
+RTE00382,North,13.47,High
+RTE00383,north,19.24,Very High
+RTE00384,Suburbs,19.69,Very High
+RTE00385,Downtown,10.32,Very High
+RTE00386,East,10.54,Medium
+RTE00387,west,2.43,High
+RTE00388,north,15.02,Very High
+RTE00389,West,18.21,Very High
+RTE00390,North,5.99,Low
+RTE00391,South,,Very High
+RTE00392,central,18.58,Low
+RTE00393,suburbs,19.39,High
+RTE00394,AIRPORT,5.96,Low
+RTE00395,Airport,12.47,Very High
+RTE00396,AIRPORT,4.88,Medium
+RTE00397,Down Town,2.96,Medium
+RTE00398,central,,High
+RTE00399,west,18.19,Very High
+RTE00400,Sth,16.91,High
+RTE00401,central,1.83,Low
+RTE00402,West,18.69,High
+RTE00403,Down Town,10.09,Medium
+RTE00404,Downtown,8.06,High
+RTE00405,Airport,12.39,Low
+RTE00406,suburbs,2.74,Very High
+RTE00407,East,16.84,High
+RTE00408,South,13.15,Low
+RTE00409,SOUTH,4.76,Medium
+RTE00410,North,4.79,Very High
+RTE00411,East Zone,4.71,High
+RTE00412,north,2.01,High
+RTE00413,West,13.26,Medium
+RTE00414,East,18.62,High
+RTE00415,East Zone,1.17,Medium
+RTE00416,Airport,1.84,Medium
+RTE00417,central,12.94,Very High
+RTE00418,Airport,18.17,Medium
+RTE00419,East,7.73,Medium
+RTE00420,Sth,8.21,Medium
+RTE00421,East,13.44,High
+RTE00422,East Zone,6.61,Medium
+RTE00423,Down Town,1.36,Medium
+RTE00424,North,16.39,Medium
+RTE00425,AIRPORT,14.06,Medium
+RTE00426,Airport,13.11,High
+RTE00427,AIRPORT,16.52,Medium
+RTE00428,Airport,15.11,Low
+RTE00429,South,5.16,Low
+RTE00430,West,8.27,Low
+RTE00431,East Zone,3.47,Very High
+RTE00432,Suburbs,3.55,Low
+RTE00433,Suburbs,15.14,Low
+RTE00434,AIRPORT,19.0,Very High
+RTE00435,Sth,21.21,High
+RTE00436,Sth,14.12,High
+RTE00437,north,4.7,Very High
+RTE00438,SOUTH,3.04,High
+RTE00439,SOUTH,18.03,Very High
+RTE00440,Downtown,13.07,Medium
+RTE00441,West,13.91,High
+RTE00442,South,17.37,Very High
+RTE00443,central,15.71,Medium
+RTE00444,Sth,18.49,Medium
+RTE00445,Down Town,1.99,Low
+RTE00446,Central,16.65,Very High
+RTE00447,South,18.84,Very High
+RTE00448,west,6.87,Low
+RTE00449,North,14.38,High
+RTE00450,AIRPORT,7.46,Very High
+RTE00451,East,21.11,Medium
+RTE00452,SOUTH,1.51,Very High
+RTE00453,Down Town,13.09,Low
+RTE00454,Suburbs,4.33,Very High
+RTE00455,West,15.9,High
+RTE00456,North,4.53,Low
+RTE00457,Suburbs,5.79,Low
+RTE00458,Airport,11.28,Medium
+RTE00459,SOUTH,20.19,Very High
+RTE00460,East,5.29,Low
+RTE00461,Down Town,3.86,High
+RTE00462,West,16.89,High
+RTE00463,SOUTH,11.41,High
+RTE00464,central,20.13,Medium
+RTE00465,Down Town,3.91,High
+RTE00466,Down Town,14.49,Medium
+RTE00467,north,5.74,High
+RTE00468,East,4.12,Very High
+RTE00469,Sth,15.29,High
+RTE00470,central,13.39,High
+RTE00471,Airport,16.8,Medium
+RTE00472,west,7.36,Very High
+RTE00473,central,10.3,Very High
+RTE00474,west,9.4,Medium
+RTE00475,Airport,21.66,Very High
+RTE00476,suburbs,7.0,High
+RTE00477,South,7.05,High
+RTE00478,north,8.32,Very High
+RTE00479,suburbs,12.77,High
+RTE00480,suburbs,6.15,Very High
+RTE00481,north,20.2,Medium
+RTE00482,Downtown,6.43,Medium
+RTE00483,north,19.79,Medium
+RTE00484,South,2.99,Low
+RTE00485,Central,14.72,High
+RTE00486,West,20.03,Medium
+RTE00487,East,4.38,Very High
+RTE00488,west,,Very High
+RTE00489,Sth,10.4,Medium
+RTE00490,AIRPORT,20.85,Medium
+RTE00491,Downtown,15.15,Medium
+RTE00492,Sth,7.19,Very High
+RTE00493,South,4.79,Low
+RTE00494,central,7.24,Medium
+RTE00495,Nrth,2.77,Very High
+RTE00496,AIRPORT,3.85,Very High
+RTE00497,Sth,3.02,Medium
+RTE00498,Down Town,9.77,High
+RTE00499,Downtown,17.67,Very High
+RTE00500,Down Town,3.8,High
+RTE00501,SOUTH,3.56,High
+RTE00502,East,14.44,Low
+RTE00503,central,4.98,Very High
+RTE00504,South,2.87,Low
+RTE00505,Nrth,4.34,Medium
+RTE00506,Nrth,20.38,Low
+RTE00507,Central,18.22,Medium
+RTE00508,West,8.31,High
+RTE00509,suburbs,14.7,Very High
+RTE00510,Airport,12.19,Low
+RTE00511,Airport,15.16,Very High
+RTE00512,Suburbs,15.27,High
+RTE00513,Suburbs,14.13,High
+RTE00514,Central,6.44,High
+RTE00515,South,1.63,High
+RTE00516,AIRPORT,10.46,High
+RTE00517,East,19.69,High
+RTE00518,AIRPORT,12.87,Low
+RTE00519,Suburbs,18.45,Very High
+RTE00520,Central,21.82,Low
+RTE00521,north,4.27,High
+RTE00522,East Zone,15.47,Medium
+RTE00523,East,15.1,Medium
+RTE00524,East,21.58,High
+RTE00525,central,21.69,High
+RTE00526,Sth,15.36,High
+RTE00527,central,5.96,Very High
+RTE00528,Sth,17.73,Very High
+RTE00529,East Zone,3.07,Low
+RTE00530,north,17.35,Very High
+RTE00531,Nrth,20.1,High
+RTE00532,suburbs,8.92,Very High
+RTE00533,North,14.17,Medium
+RTE00534,Nrth,9.92,Medium
+RTE00535,AIRPORT,10.08,High
+RTE00536,West,7.38,Very High
+RTE00537,AIRPORT,16.96,Very High
+RTE00538,Central,20.65,Low
+RTE00539,Central,20.74,Low
+RTE00540,West,4.51,Medium
+RTE00541,West,19.34,High
+RTE00542,West,16.43,Medium
+RTE00543,SOUTH,6.16,High
+RTE00544,Sth,2.23,High
+RTE00545,west,6.48,High
+RTE00546,AIRPORT,20.14,High
+RTE00547,north,14.22,Very High
+RTE00548,central,16.09,High
+RTE00549,Down Town,6.25,Very High
+RTE00550,Down Town,16.05,High
+RTE00551,South,1.4,Very High
+RTE00552,Airport,8.76,Very High
+RTE00553,north,14.09,Medium
+RTE00554,central,3.9,Medium
+RTE00555,Central,18.25,Low
+RTE00556,central,5.78,Medium
+RTE00557,South,14.63,Medium
+RTE00558,central,9.39,High
+RTE00559,East Zone,13.44,Low
+RTE00560,Downtown,3.08,Medium
+RTE00561,South,1.16,Medium
+RTE00562,Down Town,20.08,Very High
+RTE00563,north,6.52,Low
+RTE00564,west,18.18,Low
+RTE00565,North,21.99,Low
+RTE00566,East Zone,5.28,Very High
+RTE00567,SOUTH,6.42,Low
+RTE00568,SOUTH,14.85,Low
+RTE00569,north,21.27,Very High
+RTE00570,Down Town,20.22,Low
+RTE00571,West,11.46,Low
+RTE00572,Downtown,17.66,High
+RTE00573,Central,3.68,Medium
+RTE00574,SOUTH,21.52,Low
+RTE00575,suburbs,21.24,Very High
+RTE00576,East Zone,4.27,High
+RTE00577,north,7.15,Medium
+RTE00578,AIRPORT,2.92,Medium
+RTE00579,East,6.56,High
+RTE00580,Suburbs,18.1,Very High
+RTE00581,suburbs,,Medium
+RTE00582,Suburbs,2.67,Medium
+RTE00583,AIRPORT,8.06,Medium
+RTE00584,Down Town,21.61,Low
+RTE00585,Nrth,14.15,Low
+RTE00586,west,9.62,High
+RTE00587,South,4.33,High
+RTE00588,Nrth,21.71,Very High
+RTE00589,Airport,18.2,Very High
+RTE00590,East,6.77,High
+RTE00591,SOUTH,,Very High
+RTE00592,Nrth,2.0,Medium
+RTE00593,central,3.35,Medium
+RTE00594,Central,13.11,Very High
+RTE00595,Nrth,20.49,Very High
+RTE00596,North,11.33,High
+RTE00597,Airport,18.67,High
+RTE00598,Suburbs,10.25,Very High
+RTE00599,Suburbs,15.82,Medium
+RTE00600,South,16.32,Low
+RTE00601,Downtown,4.49,Very High
+RTE00602,South,8.46,High
+RTE00603,suburbs,14.31,High
+RTE00604,South,2.3,Very High
+RTE00605,west,8.46,High
+RTE00606,Suburbs,12.14,Medium
+RTE00607,north,21.92,High
+RTE00608,west,10.86,Low
+RTE00609,suburbs,18.1,Low
+RTE00610,Nrth,9.96,Medium
+RTE00611,central,17.68,High
+RTE00612,West,13.42,High
+RTE00613,North,19.6,Very High
+RTE00614,Downtown,9.51,Low
+RTE00615,west,13.61,Very High
+RTE00616,Down Town,,Very High
+RTE00617,suburbs,9.65,High
+RTE00618,Airport,,Low
+RTE00619,Down Town,2.78,Very High
+RTE00620,Sth,1.15,High
+RTE00621,west,19.32,Medium
+RTE00622,west,,Low
+RTE00623,Airport,5.28,High
+RTE00624,north,,Medium
+RTE00625,East,7.58,Very High
+RTE00626,SOUTH,,Very High
+RTE00627,North,4.25,Very High
+RTE00628,central,21.15,Medium
+RTE00629,South,18.85,Medium
+RTE00630,Airport,19.11,Very High
+RTE00631,Suburbs,9.42,Very High
+RTE00632,Downtown,16.96,Medium
+RTE00633,Downtown,3.85,High
+RTE00634,Suburbs,0.98,Low
+RTE00635,north,1.22,Very High
+RTE00636,AIRPORT,13.24,Medium
+RTE00637,Nrth,10.45,High
+RTE00638,North,11.78,High
+RTE00639,North,0.96,High
+RTE00640,Down Town,9.76,Very High
+RTE00641,Central,16.02,Medium
+RTE00642,Airport,10.19,Low
+RTE00643,North,16.32,Medium
+RTE00644,Downtown,5.74,Medium
+RTE00645,north,18.04,High
+RTE00646,SOUTH,13.27,Low
+RTE00647,north,5.27,Very High
+RTE00648,AIRPORT,5.82,Very High
+RTE00649,central,14.11,High
+RTE00650,west,18.39,Very High
+RTE00651,suburbs,9.61,Medium
+RTE00652,north,6.28,High
+RTE00653,Suburbs,19.18,Low
+RTE00654,suburbs,14.99,Medium
+RTE00655,SOUTH,10.3,Low
+RTE00656,Nrth,11.14,Low
+RTE00657,central,5.13,Medium
+RTE00658,West,14.09,Low
+RTE00659,North,8.41,High
+RTE00660,Nrth,21.91,High
+RTE00661,west,10.98,Medium
+RTE00662,Sth,11.1,Very High
+RTE00663,SOUTH,12.8,Low
+RTE00664,SOUTH,20.24,Medium
+RTE00665,West,17.78,Low
+RTE00666,Down Town,10.36,Medium
+RTE00667,East,16.04,Low
+RTE00668,East Zone,13.23,Very High
+RTE00669,north,11.24,Medium
+RTE00670,East Zone,4.88,High
+RTE00671,north,10.64,Very High
+RTE00672,north,6.01,High
+RTE00673,SOUTH,20.19,Very High
+RTE00674,Suburbs,7.91,High
+RTE00675,Central,20.99,Very High
+RTE00676,Nrth,12.1,Low
+RTE00677,Downtown,14.19,High
+RTE00678,South,12.31,Low
+RTE00679,central,3.54,Medium
+RTE00680,East Zone,8.77,Low
+RTE00681,Central,2.9,High
+RTE00682,North,14.01,Very High
+RTE00683,Down Town,10.27,Low
+RTE00684,SOUTH,17.29,Very High
+RTE00685,north,5.47,Medium
+RTE00686,AIRPORT,4.29,Medium
+RTE00687,central,9.41,High
+RTE00688,central,20.44,Very High
+RTE00689,South,15.86,Low
+RTE00690,Suburbs,9.68,Low
+RTE00691,East Zone,11.77,Medium
+RTE00692,Downtown,2.59,Very High
+RTE00693,Sth,21.67,Very High
+RTE00694,Down Town,14.93,Medium
+RTE00695,west,6.85,Low
+RTE00696,Nrth,13.22,Medium
+RTE00697,SOUTH,3.12,Very High
+RTE00698,Airport,21.28,Low
+RTE00699,Sth,4.51,Medium
+RTE00700,Airport,14.54,Very High
+RTE00701,SOUTH,6.0,Very High
+RTE00702,West,16.01,High
+RTE00703,Down Town,17.27,High
+RTE00704,Central,15.08,Medium
+RTE00705,north,13.83,Low
+RTE00706,Sth,19.72,Low
+RTE00707,Airport,2.47,High
+RTE00708,East Zone,7.82,Very High
+RTE00709,East,6.06,High
+RTE00710,Downtown,21.75,Medium
+RTE00711,west,9.06,High
+RTE00712,Downtown,16.33,Low
+RTE00713,SOUTH,15.32,Medium
+RTE00714,AIRPORT,5.3,Low
+RTE00715,East Zone,5.87,Medium
+RTE00716,west,6.76,Very High
+RTE00717,north,9.52,High
+RTE00718,SOUTH,5.77,Low
+RTE00719,suburbs,1.22,Medium
+RTE00720,West,19.44,High
+RTE00721,Down Town,21.27,Low
+RTE00722,South,8.04,Very High
+RTE00723,East,7.98,Medium
+RTE00724,Down Town,0.95,Low
+RTE00725,Suburbs,15.22,Low
+RTE00726,Nrth,18.3,Very High
+RTE00727,West,3.91,Medium
+RTE00728,central,4.18,High
+RTE00729,Nrth,17.55,Low
+RTE00730,SOUTH,13.87,Medium
+RTE00731,AIRPORT,1.75,Medium
+RTE00732,South,14.0,Very High
+RTE00733,Central,7.35,Low
+RTE00734,Central,8.62,High
+RTE00735,Suburbs,,Low
+RTE00736,East Zone,17.99,Low
+RTE00737,AIRPORT,9.29,High
+RTE00738,suburbs,20.88,Medium
+RTE00739,Central,9.42,Low
+RTE00740,East Zone,17.16,Medium
+RTE00741,Airport,11.06,Very High
+RTE00742,East,19.83,Medium
+RTE00743,Down Town,20.04,High
+RTE00744,East Zone,2.65,High
+RTE00745,Airport,20.65,Very High
+RTE00746,East Zone,18.3,Medium
+RTE00747,South,17.58,Low
+RTE00748,North,5.06,Very High
+RTE00749,suburbs,17.87,High
+RTE00750,north,18.82,Medium
+RTE00751,Suburbs,6.93,High
+RTE00752,Airport,20.99,Low
+RTE00753,Airport,1.86,Very High
+RTE00754,Down Town,,Very High
+RTE00755,East,12.2,High
+RTE00756,Central,13.01,Very High
+RTE00757,AIRPORT,,Medium
+RTE00758,AIRPORT,1.16,Medium
+RTE00759,central,21.16,High
+RTE00760,AIRPORT,1.75,High
+RTE00761,Down Town,3.83,Very High
+RTE00762,central,1.1,High
+RTE00763,North,12.82,Medium
+RTE00764,South,20.56,Low
+RTE00765,Sth,14.92,Medium
+RTE00766,Suburbs,18.24,Very High
+RTE00767,west,1.08,High
+RTE00768,North,12.29,High
+RTE00769,East Zone,10.54,High
+RTE00770,Nrth,11.38,Very High
+RTE00771,Suburbs,2.33,Low
+RTE00772,North,15.31,Very High
+RTE00773,North,11.47,Medium
+RTE00774,Downtown,17.02,Low
+RTE00775,Downtown,11.09,High
+RTE00776,west,3.97,Medium
+RTE00777,SOUTH,14.54,High
+RTE00778,Central,4.45,Low
+RTE00779,West,19.29,Very High
+RTE00780,central,13.8,Medium
+RTE00781,Nrth,4.13,Very High
+RTE00782,SOUTH,21.2,Medium
+RTE00783,Airport,11.79,High
+RTE00784,East,2.35,High
+RTE00785,South,14.09,Very High
+RTE00786,SOUTH,6.17,High
+RTE00787,SOUTH,17.84,Low
+RTE00788,suburbs,18.14,Low
+RTE00789,Nrth,21.55,Low
+RTE00790,Nrth,11.44,Low
+RTE00791,East Zone,10.45,Medium
+RTE00792,AIRPORT,16.77,Medium
+RTE00793,Central,3.61,Low
+RTE00794,East Zone,12.39,Medium
+RTE00795,Down Town,12.38,Low
+RTE00796,west,2.7,Very High
+RTE00797,Suburbs,9.66,Medium
+RTE00798,Airport,18.89,Low
+RTE00799,central,18.95,Low
+RTE00800,North,2.9,Very High
+RTE00801,Downtown,2.72,Very High
+RTE00802,Downtown,6.37,High
+RTE00803,Central,19.35,Low
+RTE00804,Suburbs,3.53,High
+RTE00805,North,16.06,Medium
+RTE00806,Nrth,2.94,Low
+RTE00807,Airport,14.01,Low
+RTE00808,West,8.35,Medium
+RTE00809,west,17.52,Very High
+RTE00810,South,5.75,Low
+RTE00811,central,14.35,Very High
+RTE00812,north,5.8,Low
+RTE00813,Sth,15.93,High
+RTE00814,South,19.32,Very High
+RTE00815,South,3.49,High
+RTE00816,West,19.17,Low
+RTE00817,North,13.38,High
+RTE00818,South,3.49,Low
+RTE00819,West,9.86,Low
+RTE00820,AIRPORT,4.21,High
+RTE00821,suburbs,15.65,Low
+RTE00822,central,16.89,Medium
+RTE00823,West,3.04,Low
+RTE00824,Sth,11.53,Low
+RTE00825,north,18.07,Medium
+RTE00826,Down Town,20.65,Very High
+RTE00827,Central,11.69,Medium
+RTE00828,Suburbs,20.95,Medium
+RTE00829,North,12.16,Medium
+RTE00830,SOUTH,9.16,Medium
+RTE00831,AIRPORT,18.78,Very High
+RTE00832,West,11.25,Low
+RTE00833,Nrth,10.8,High
+RTE00834,north,11.19,Very High
+RTE00835,Central,18.75,Very High
+RTE00836,AIRPORT,18.44,Low
+RTE00837,West,9.35,Medium
+RTE00838,Nrth,7.87,Medium
+RTE00839,West,11.23,Very High
+RTE00840,SOUTH,12.94,High
+RTE00841,West,5.85,Medium
+RTE00842,West,17.63,Very High
+RTE00843,Down Town,11.11,High
+RTE00844,Suburbs,7.88,High
+RTE00845,Suburbs,3.06,High
+RTE00846,north,5.86,High
+RTE00847,Nrth,20.92,Very High
+RTE00848,Suburbs,7.27,Very High
+RTE00849,west,4.38,High
+RTE00850,AIRPORT,10.57,Medium
+RTE00851,SOUTH,7.31,Medium
+RTE00852,Airport,1.55,Very High
+RTE00853,South,7.65,High
+RTE00854,Sth,12.34,High
+RTE00855,Down Town,12.5,Very High
+RTE00856,Suburbs,8.36,Very High
+RTE00857,Down Town,10.28,Very High
+RTE00858,East Zone,21.27,Low
+RTE00859,Downtown,8.8,Low
+RTE00860,North,6.27,High
+RTE00861,North,5.96,Low
+RTE00862,East,10.5,Medium
+RTE00863,West,16.9,High
+RTE00864,Down Town,5.17,Low
+RTE00865,Central,15.84,High
+RTE00866,East,1.25,Medium
+RTE00867,Nrth,9.68,Medium
+RTE00868,East,17.25,High
+RTE00869,West,7.98,Low
+RTE00870,north,12.75,High
+RTE00871,Downtown,5.15,Medium
+RTE00872,suburbs,16.53,Low
+RTE00873,SOUTH,1.91,Low
+RTE00874,north,18.87,Very High
+RTE00875,suburbs,5.0,High
+RTE00876,South,19.34,Medium
+RTE00877,West,8.27,Medium
+RTE00878,Airport,16.12,High
+RTE00879,South,7.57,High
+RTE00880,SOUTH,20.01,Medium
+RTE00881,west,3.48,Medium
+RTE00882,East Zone,4.58,High
+RTE00883,AIRPORT,11.25,High
+RTE00884,West,2.54,Low
+RTE00885,West,4.95,Very High
+RTE00886,South,,Medium
+RTE00887,North,21.5,Low
+RTE00888,Central,8.78,High
+RTE00889,Airport,20.37,Very High
+RTE00890,East Zone,12.35,Medium
+RTE00891,west,6.52,Very High
+RTE00892,suburbs,15.69,Low
+RTE00893,north,14.77,High
+RTE00894,East,21.77,Low
+RTE00895,west,6.42,Very High
+RTE00896,East Zone,15.05,Low
+RTE00897,Airport,1.9,Low
+RTE00898,West,3.21,High
+RTE00899,central,0.88,High
+RTE00900,central,21.99,Very High
+RTE00901,suburbs,17.81,Very High
+RTE00902,north,17.48,Low
+RTE00903,central,11.61,Medium
+RTE00904,Down Town,7.16,Low
+RTE00905,AIRPORT,4.01,Very High
+RTE00906,Airport,6.84,Low
+RTE00907,West,8.77,High
+RTE00908,Central,16.83,Low
+RTE00909,South,12.24,High
+RTE00910,Airport,2.44,Medium
+RTE00911,West,1.18,High
+RTE00912,AIRPORT,2.97,Medium
+RTE00913,Down Town,9.5,Medium
+RTE00914,suburbs,20.58,Low
+RTE00915,Airport,14.31,Very High
+RTE00916,central,17.8,Very High
+RTE00917,west,10.69,Low
+RTE00918,North,8.47,Medium
+RTE00919,Central,3.1,Very High
+RTE00920,Down Town,19.37,High
+RTE00921,Down Town,17.4,Very High
+RTE00922,West,4.36,Medium
+RTE00923,AIRPORT,11.66,Medium
+RTE00924,suburbs,11.13,High
+RTE00925,South,,Low
+RTE00926,East,20.86,Very High
+RTE00927,north,13.09,Low
+RTE00928,East Zone,,Very High
+RTE00929,North,1.87,High
+RTE00930,Nrth,2.13,Low
+RTE00931,Downtown,4.77,Very High
+RTE00932,East Zone,1.49,Very High
+RTE00933,Nrth,16.56,Medium
+RTE00934,Nrth,16.13,Medium
+RTE00935,West,3.68,Very High
+RTE00936,AIRPORT,18.52,Medium
+RTE00937,Downtown,4.08,Very High
+RTE00938,Down Town,7.18,Very High
+RTE00939,west,6.08,Medium
+RTE00940,central,8.69,Medium
+RTE00941,Central,6.2,Medium
+RTE00942,Sth,11.17,Low
+RTE00943,South,9.44,High
+RTE00944,North,21.72,Very High
+RTE00945,Airport,1.99,High
+RTE00946,Nrth,3.81,Low
+RTE00947,Down Town,1.92,Low
+RTE00948,Down Town,14.07,Very High
+RTE00949,Airport,1.96,Very High
+RTE00950,East,18.53,High
+RTE00951,Down Town,11.65,High
+RTE00952,East Zone,11.97,Medium
+RTE00953,Downtown,12.71,High
+RTE00954,East Zone,4.42,High
+RTE00955,north,4.99,Low
+RTE00956,South,7.56,High
+RTE00957,Nrth,13.38,Medium
+RTE00958,Downtown,5.25,High
+RTE00959,Sth,3.27,Very High
+RTE00960,central,21.37,Medium
+RTE00961,central,1.27,Very High
+RTE00962,Downtown,17.82,Low
+RTE00963,East,17.51,Medium
+RTE00964,suburbs,7.1,Medium
+RTE00965,suburbs,3.68,High
+RTE00966,suburbs,3.89,Medium
+RTE00967,East,15.59,Low
+RTE00968,Down Town,14.43,Low
+RTE00969,suburbs,17.39,Low
+RTE00970,East Zone,20.67,Medium
+RTE00971,West,15.47,Medium
+RTE00972,Down Town,4.1,High
+RTE00973,North,5.96,Low
+RTE00974,West,18.65,High
+RTE00975,central,5.24,Low
+RTE00976,AIRPORT,2.34,High
+RTE00977,South,15.71,Very High
+RTE00978,Sth,9.33,Very High
+RTE00979,Sth,20.3,Low
+RTE00980,North,14.59,High
+RTE00981,East,2.72,Medium
+RTE00982,SOUTH,20.89,Medium
+RTE00983,Nrth,6.28,Medium
+RTE00984,Sth,7.95,High
+RTE00985,Suburbs,9.33,Very High
+RTE00986,suburbs,1.89,Medium
+RTE00987,East Zone,11.33,Low
+RTE00988,west,3.41,Very High
+RTE00989,South,9.3,Low
+RTE00990,Downtown,8.24,High
+RTE00991,suburbs,17.18,Medium
+RTE00992,East Zone,17.83,Low
+RTE00993,Sth,4.05,High
+RTE00994,Down Town,8.57,Medium
+RTE00995,west,8.72,High
+RTE00996,suburbs,4.01,Low
+RTE00997,West,17.73,Very High
+RTE00998,West,15.79,Low
+RTE00999,Downtown,4.84,Low
+RTE01000,North,8.57,Very High
+RTE01001,East Zone,3.04,High
+RTE01002,west,14.12,High
+RTE01003,SOUTH,3.37,Low
+RTE01004,Sth,21.7,Low
+RTE01005,Nrth,17.35,High
+RTE01006,west,9.07,Very High
+RTE01007,West,13.07,Medium
+RTE01008,South,20.12,Very High
+RTE01009,Airport,12.55,Low
+RTE01010,Down Town,,High
+RTE01011,Central,8.83,Very High
+RTE01012,AIRPORT,18.67,Low
+RTE01013,West,14.46,Medium
+RTE01014,north,14.6,Medium
+RTE01015,Suburbs,19.18,Very High
+RTE01016,Suburbs,19.75,Low
+RTE01017,West,20.3,Low
+RTE01018,central,2.81,Medium
+RTE01019,Suburbs,12.34,High
+RTE01020,suburbs,16.5,High
+RTE01021,Suburbs,16.85,Very High
+RTE01022,East Zone,13.66,Very High
+RTE01023,West,4.34,Medium
+RTE01024,AIRPORT,17.71,Low
+RTE01025,South,16.07,High
+RTE01026,West,2.63,High
+RTE01027,suburbs,10.63,High
+RTE01028,suburbs,4.49,High
+RTE01029,Nrth,7.95,Medium
+RTE01030,Central,1.18,High
+RTE01031,Down Town,9.29,Low
+RTE01032,North,12.46,High
+RTE01033,Nrth,13.94,Very High
+RTE01034,South,14.87,Low
+RTE01035,Sth,18.53,High
+RTE01036,AIRPORT,5.37,Medium
+RTE01037,Down Town,3.35,Medium
+RTE01038,Nrth,18.85,High
+RTE01039,Airport,4.12,Very High
+RTE01040,Airport,21.46,Medium
+RTE01041,Central,18.66,Low
+RTE01042,West,11.42,Very High
+RTE01043,central,21.61,Medium
+RTE01044,East Zone,2.86,Very High
+RTE01045,Nrth,7.22,Medium
+RTE01046,central,14.33,Medium
+RTE01047,AIRPORT,8.22,Very High
+RTE01048,Downtown,20.48,High
+RTE01049,north,2.19,High
+RTE01050,central,12.45,Very High
+RTE01051,East Zone,13.33,Medium
+RTE01052,SOUTH,14.64,Medium
+RTE01053,suburbs,6.22,Medium
+RTE01054,Central,8.53,Medium
+RTE01055,Central,18.69,Medium
+RTE01056,AIRPORT,4.93,High
+RTE01057,Nrth,18.33,Medium
+RTE01058,SOUTH,12.73,Very High
+RTE01059,Sth,16.96,Medium
+RTE01060,East Zone,15.93,Medium
+RTE01061,Sth,5.2,High
+RTE01062,Suburbs,12.86,Low
+RTE01063,Suburbs,19.2,Low
+RTE01064,Suburbs,9.96,Medium
+RTE01065,SOUTH,21.29,High
+RTE01066,west,10.39,Medium
+RTE01067,Central,3.83,Low
+RTE01068,Airport,9.06,High
+RTE01069,Nrth,20.98,Very High
+RTE01070,Sth,7.58,Very High
+RTE01071,East Zone,19.2,High
+RTE01072,West,19.48,Very High
+RTE01073,west,8.22,High
+RTE01074,Sth,2.57,Medium
+RTE01075,Down Town,16.16,Medium
+RTE01076,AIRPORT,7.4,Low
+RTE01077,Sth,17.4,Medium
+RTE01078,SOUTH,10.18,Medium
+RTE01079,AIRPORT,11.09,Low
+RTE01080,North,17.29,High
+RTE01081,Nrth,8.91,Medium
+RTE01082,West,10.19,Medium
+RTE01083,North,8.78,Medium
+RTE01084,central,8.59,Low
+RTE01085,Central,11.95,High
+RTE01086,South,17.95,Low
+RTE01087,South,8.47,Very High
+RTE01088,Suburbs,11.91,Medium
+RTE01089,north,15.02,Very High
+RTE01090,Airport,6.51,High
+RTE01091,SOUTH,6.68,Medium
+RTE01092,north,20.59,Very High
+RTE01093,Central,16.14,Very High
+RTE01094,South,13.04,Very High
+RTE01095,SOUTH,14.53,Medium
+RTE01096,Suburbs,1.42,Medium
+RTE01097,Sth,13.9,Medium
+RTE01098,South,11.6,Medium
+RTE01099,west,12.37,Low
+RTE01100,suburbs,8.42,Very High
+RTE01101,West,2.53,Low
+RTE01102,Sth,4.9,High
+RTE01103,Downtown,20.96,Very High
+RTE01104,Sth,9.46,Medium
+RTE01105,central,10.69,Medium
+RTE01106,Downtown,1.92,Medium
+RTE01107,Nrth,1.6,Low
+RTE01108,SOUTH,16.0,Medium
+RTE01109,South,12.21,Very High
+RTE01110,central,11.58,Very High
+RTE01111,central,5.95,High
+RTE01112,AIRPORT,16.59,Very High
+RTE01113,East Zone,4.37,Medium
+RTE01114,Sth,4.83,Very High
+RTE01115,South,10.57,Very High
+RTE01116,North,6.87,Low
+RTE01117,north,6.05,Very High
+RTE01118,Suburbs,14.48,High
+RTE01119,suburbs,14.6,Very High
+RTE01120,Downtown,18.28,Low
+RTE01121,west,9.66,Low
+RTE01122,Sth,2.35,Very High
+RTE01123,Suburbs,6.6,Very High
+RTE01124,Suburbs,21.58,Low
+RTE01125,SOUTH,13.44,Medium
+RTE01126,suburbs,15.85,Very High
+RTE01127,Airport,0.96,Low
+RTE01128,East,11.79,Very High
+RTE01129,Airport,1.6,Low
+RTE01130,Airport,12.87,Medium
+RTE01131,Nrth,20.32,High
+RTE01132,West,21.33,Very High
+RTE01133,central,12.26,Very High
+RTE01134,South,,High
+RTE01135,AIRPORT,20.83,High
+RTE01136,north,15.08,Very High
+RTE01137,Sth,2.18,Medium
+RTE01138,north,10.67,Very High
+RTE01139,Central,5.89,High
+RTE01140,Airport,10.76,Low
+RTE01141,north,10.46,Medium
+RTE01142,North,13.14,Very High
+RTE01143,East Zone,8.36,Very High
+RTE01144,suburbs,4.28,Low
+RTE01145,Central,11.48,Low
+RTE01146,South,18.4,Medium
+RTE01147,Central,14.88,Medium
+RTE01148,East Zone,7.97,Very High
+RTE01149,South,20.63,Very High
+RTE01150,SOUTH,20.14,High
+RTE01151,Down Town,5.24,Very High
+RTE01152,Sth,1.64,Low
+RTE01153,west,16.52,Medium
+RTE01154,East,,Very High
+RTE01155,East Zone,21.32,Medium
+RTE01156,Nrth,19.66,Very High
+RTE01157,Downtown,13.53,Low
+RTE01158,Airport,12.04,High
+RTE01159,Nrth,1.39,High
+RTE01160,East,6.03,Medium
+RTE01161,Nrth,10.54,Low
+RTE01162,Airport,14.12,Low
+RTE01163,AIRPORT,12.61,Low
+RTE01164,Sth,16.54,Very High
+RTE01165,Sth,6.73,High
+RTE01166,central,12.78,Low
+RTE01167,East,2.67,Very High
+RTE01168,west,9.57,Medium
+RTE01169,Downtown,16.7,Very High
+RTE01170,Suburbs,15.5,Very High
+RTE01171,East Zone,21.8,Low
+RTE01172,East Zone,6.69,Medium
+RTE01173,west,11.36,High
+RTE01174,SOUTH,7.79,Medium
+RTE01175,Suburbs,10.14,Medium
+RTE01176,Nrth,18.97,Medium
+RTE01177,Down Town,15.31,Medium
+RTE01178,Sth,19.51,Low
+RTE01179,North,5.11,Very High
+RTE01180,West,19.32,High
+RTE01181,west,2.07,High
+RTE01182,suburbs,19.64,Very High
+RTE01183,Downtown,7.78,High
+RTE01184,Downtown,7.47,Medium
+RTE01185,South,11.66,Low
+RTE01186,East Zone,20.74,Medium
+RTE01187,central,1.81,Medium
+RTE01188,West,8.27,Low
+RTE01189,central,18.96,High
+RTE01190,north,9.2,Low
+RTE01191,Sth,5.02,Very High
+RTE01192,SOUTH,9.81,Very High
+RTE01193,North,8.97,Very High
+RTE01194,Nrth,20.21,Low
+RTE01195,west,16.95,Very High
+RTE01196,Nrth,11.51,Medium
+RTE01197,Nrth,21.75,Medium
+RTE01198,suburbs,10.66,Very High
+RTE01199,Down Town,2.03,Very High
+RTE01200,South,6.36,Very High
